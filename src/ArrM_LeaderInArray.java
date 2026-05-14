@@ -1,3 +1,4 @@
+//---------------------------Brute force approach--------------------
 public class ArrM_LeaderInArray {
     public static void leadersInArray(int arr[]) {
 
