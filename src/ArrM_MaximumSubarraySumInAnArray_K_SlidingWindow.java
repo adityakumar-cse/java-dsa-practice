@@ -13,7 +13,7 @@ public class ArrM_MaximumSubarraySumInAnArray_K_SlidingWindow {
     }
     public static void main(String[] args) {
         int arr[] = {2,4,6,3,5,8,7};
-        int k = 4;
+        int k = 3;
         System.out.println(maximumSubarraySlidingWindow(arr,k));
     }
 }
