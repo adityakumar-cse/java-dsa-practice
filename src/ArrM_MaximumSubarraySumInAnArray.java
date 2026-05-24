@@ -43,7 +43,7 @@ public class ArrM_MaximumSubarraySumInAnArray {
         return maxSum;
     }
     public static void main(String[] args) {
-        int arr[] = {1,7,4,9,-3,-7,6,-9,4,10};
+        int arr[] = {1,7,4,-3,-7,6,-9,4,10};
         System.out.println(maxSubarraySum(arr));
     }
 }
