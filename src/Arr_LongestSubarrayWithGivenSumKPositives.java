@@ -21,6 +21,7 @@
 //    }
 //}
 
+//==================================Optimized Approach================================================
 public class Arr_LongestSubarrayWithGivenSumKPositives {
     public static int longestSubarrayWithGivenSumK(int arr[], int k){
         int maxLength = 0;
