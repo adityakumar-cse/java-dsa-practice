@@ -47,7 +47,7 @@ public class Arr_LengthOfTheLongestSubarrayWithZeroSum {
         return maxLength;
     }
     public static void main (String [] args){
-        int[]arr = {9, -3, 3, -1, 6, 8, -5};
+        int[]arr = {9, -3, 3, -1, 8, -5};
         System.out.println(lengthOfTheLongestSubarrayWithZeroSum(arr));
     }
 }
